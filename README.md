@@ -1,2 +1,2 @@
 # gitstudy
-create a new branch is simple
+create a new branch is quick and simple
